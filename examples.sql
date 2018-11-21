@@ -1,4 +1,4 @@
-CREATE TABLE user (
+CREATE TABLE users (
     id integer PRIMARY KEY,
     group_id integer NOT NULL
 );
